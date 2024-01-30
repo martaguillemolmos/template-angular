@@ -7,11 +7,11 @@ Antes de iniciar el proyecto de Angular, deberemos comprobar que nuestro sistema
 >[!IMPORTANT]
 >Comprueba que la version de Node instalada, sea compatible con Angular 17.
   
-Seguidamente, instalaremos Angular CLI. 
+Seguidamente, instalaremos Angular CLI de forma global.
 
     npm install -g @angular/cli
 
-Si ya tienes instalado Angular 17, comprabaremos la versión de este framework, a través del siguiente comando desde la terminal.
+Si ya tienes instalado, comprabaremos la versión de este framework, a través del siguiente comando desde la terminal.
     
     ng version
 
@@ -22,7 +22,7 @@ Si ya tienes instalado Angular 17, comprabaremos la versión de este framework, 
 
 ## Inicializar el proyecto con Angular 17
 
-Abrimos Visual Studio Code e inicializaremos el proyecto ejecutando en la terminal el siguiente comando:
+Abrimos Visual Studio Code, seleccionamos la carpeta e inicializaremos el proyecto ejecutando en la terminal el siguiente comando:
 
     ng new angular-desde-cero
 
@@ -37,8 +37,8 @@ Tras ejecutar el comando, deberemos de seleccionar el estilo.En este caso, selec
 <div>
 <br>
 
-A continuación, deberemos seleccionar si queremos que de forma nativa, nuestro proyecto contenga serve-arrendering. En nuestro caso, seleccionaremos NO.
-Y de forma automática, se generarán todos los archivos, siguiendo la siguiente estructura de proyecto.
+A continuación, deberemos seleccionar si queremos que de forma nativa, queremos que nuestro proyecto contenga serve-arrendering. En nuestro caso, seleccionaremos NO.
+Y de forma automática, se generarán todos los archivos, siguiendo la siguiente estructura.
 
 <div align="center">
       <img src="./img_readme/3- Estructura del proyecto.png" alt="Estructura del proyecto" style="max-width: 100%" /> 
@@ -58,7 +58,7 @@ Por último, para poder visualizar en línea el proyecto que hemos creado,debere
       <img src="./img_readme/4- Angular en linea.png" alt="Angular en línea" style="max-width: 100%" /> 
    </div>    
    <div align="center">
-    <em>Visualizamos el proyecto de Angular17 antes de realizar cualquier modificación.</em>
+    <em>Así se visualiza el proyecto de Angular17 antes de realizar cualquier modificación en él.</em>
     </div>
 <div>
 
