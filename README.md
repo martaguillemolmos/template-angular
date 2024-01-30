@@ -15,10 +15,21 @@ Si ya tienes instalado, comprabaremos la versión de este framework, a través d
     
     ng version
 
->[!NOTE]
-><em>Angular CLI:</em> Es una herramienta para inicializar, desarrollar, automatizar y mantener aplicaciones Angular.
-><em>Angular:</em> Es una plataforma de desarrollo para crear aplicaciones web móviles y de escritorio utilizando Typescript/JavaScript y otros lenguajes.
-><em>Una vez que creas tu aplicación con el comando ng create seguido en nombre del proyecto, Angular CLI creará una aplicación con Angular.</em>
+<div align="center">
+      <img src="./img_readme/Comprobar vesión Angular CLI.png" alt="Inicializar el proyecto" style="max-width: 100%" /> 
+   </div>    
+   <div align="center">
+    <em>Comprobar vesión Angular CLI</em>
+    </div>
+<div>
+<br>
+
+Antes de continuar, debes saber que los términos Angular CLI y Angular, son diferentes.
+
+- <em>Angular CLI:</em> Es una herramienta para inicializar, desarrollar, automatizar y mantener aplicaciones Angular.
+- <em>Angular:</em> Es una plataforma de desarrollo para crear aplicaciones web móviles y de escritorio utilizando Typescript/JavaScript y otros lenguajes.
+
+<em>Una vez que creas tu aplicación con el comando ng create seguido en nombre del proyecto, Angular CLI creará una aplicación con Angular.</em>
 
 ## Inicializar el proyecto con Angular 17
 
