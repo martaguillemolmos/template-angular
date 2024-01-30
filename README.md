@@ -44,7 +44,7 @@ Y de forma automática, se generarán todos los archivos, siguiendo la siguiente
       <img src="./img_readme/3- Estructura del proyecto.png" alt="Estructura del proyecto" style="max-width: 100%" /> 
    </div>    
    <div align="center">
-    <em>Estructura del proyecto</em>
+    <em>Estructura de carpetas</em>
     </div>
 <div>
 <br>
