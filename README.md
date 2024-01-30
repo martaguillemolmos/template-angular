@@ -1,18 +1,38 @@
 # Plantilla, Angular 17.
 
-## Inicializar el proyecto de Angular 17
+Antes de iniciar el proyecto de Angular, deberemos comprobar que nuestro sistema tengamos Node instalado.
+
+     node --version
+
+>[!IMPORTANT]
+>Comprueba que la version de Node instalada, sea compatible con Angular 17.
+  
+Seguidamente, instalaremos Angular CLI. 
+
+    npm install -g @angular/cli
+
+Si ya tienes instalado Angular 17, comprabaremos la versión de este framework, a través del siguiente comando desde la terminal.
+    
+    ng version
+
+>[!NOTE]
+><em>Angular CLI:</em> Es una herramienta para inicializar, desarrollar, automatizar y mantener aplicaciones Angular.
+><em>Angular:</em> Es una plataforma de desarrollo para crear aplicaciones web móviles y de escritorio utilizando Typescript/JavaScript y otros lenguajes.
+><em>Una vez que creas tu aplicación con el comando ng create seguido en nombre del proyecto, Angular CLI creará una aplicación con Angular.</em>
+
+## Inicializar el proyecto con Angular 17
 
 Abrimos Visual Studio Code e inicializaremos el proyecto ejecutando en la terminal el siguiente comando:
 
     ng new angular-desde-cero
 
-Tras ejecutar el comando, deberemos de seleccionar el estilo.
+Tras ejecutar el comando, deberemos de seleccionar el estilo.En este caso, seleccionaremos CSS.
 
 <div align="center">
       <img src="./img_readme/1- Inicializar proyecto.png" alt="Inicializar el proyecto" style="max-width: 100%" /> 
    </div>    
    <div align="center">
-    <em>En este caso, seleccionaremos CSS.</em>
+    <em>Seleccionar el estilo.</em>
     </div>
 <div>
 <br>
